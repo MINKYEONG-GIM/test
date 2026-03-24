@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+gspread
+google-auth
+
+requests
+datetime
+scipy
+sqlalchemy
+psycopg2-binary
+pyodbc
+st-gsheets-connection
